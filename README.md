@@ -22,7 +22,6 @@ Machine Learning Engineer specializing in MLOps from Chennai. Building productio
 
 ## 🌌 Interests
 - MLOps & ML System Design
-- Astronomy & Stellar Nucleosynthesis
 - Philosophy & Growth Mindset
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
