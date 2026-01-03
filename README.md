@@ -27,10 +27,6 @@ I primarily work in **Python and ML engineering ecosystems**, with a strong focu
 
 ---
 
-## 📌 Pinned Projects
-
-Here are a few repositories that highlight my work and expertise:​:contentReference[oaicite:2]{index=2}
-
 ## 📌 Featured Projects
 
 ### 🛠 MLOps Churn Prediction
