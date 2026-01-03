@@ -1,30 +1,69 @@
-# MYasvanth
-# Hi, I'm Yasvanth M! 👋
+# 👋 Hi, I'm **Yasvanth M!**
+### 🚀 Machine Learning Engineer | MLOps Practitioner | Python & ML System Builder
 
-Machine Learning Engineer specializing in MLOps from Chennai. Building production-ready ML pipelines with reproducibility and monitoring.[web:7]
+I’m passionate about building **production-ready machine learning workflows** that are reproducible, scalable, and easy to monitor — from experimentation to deployment. I enjoy tackling real-world problems with data, engineering rigor, and automation.:contentReference[oaicite:1]{index=1}
 
-## 🛠️ Tech Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MLflow](https://img.shields.io/badge/MLflow-E25D27?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
-[![DVC](https://img.shields.io/badge/DVC-FF6B35?style=for-the-badge&logo=dvc&logoColor=white)](https://dvc.org/)
-[![ZenML](https://img.shields.io/badge/ZenML-00D4AA?style=for-the-badge&logo=zenml&logoColor=white)](https://zenml.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+---
 
-## 🔥 Pinned Projects
-- [MLflow Pipeline Repo](https://github.com/MYasvanth/your-mlflow-repo) - Experiment tracking & deployment
-- [DVC Reproducibility Project](https://github.com/MYasvanth/your-dvc-repo) - Data versioning in ML workflows
-- [ZenML Portfolio](https://github.com/MYasvanth/your-zenml-repo) - MLOps orchestration
+## 🔧 Tech Stack
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true&theme=radical&hide_border=true)[web:1]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white)  
+![DVC](https://img.shields.io/badge/DVC-FFFFFF?style=flat&logo=dvc&logoColor=black)  
+![ZenML](https://img.shields.io/badge/ZenML-504EBF?style=flat&logo=zenml&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact&theme=radical)[web:1]
+I primarily work in **Python and ML engineering ecosystems**, with a strong focus on:
+- MLOps workflows & experimentation tracking  
+- Reproducible pipelines (DVC/ZENML)  
+- Model serving with FastAPI & deployment automation  
+- Containerization & orchestration
 
-## 🌌 Interests
-- MLOps & ML System Design
-- Philosophy & Growth Mindset
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+## 📌 Pinned Projects
 
-⚡ Fun fact: Passionate about deploying scalable ML models with 'just do it' mindset.
+Here are a few repositories that highlight my work and expertise:​:contentReference[oaicite:2]{index=2}
+
+### ⭐ Key Projects
+| Project | Description |
+|---------|-------------|
+| **MLflow Pipeline Repo** | End-to-end ML pipeline with experiment tracking & deployment |
+| **DVC Reproducibility Project** | Demonstrates versioning and reproducibility for ML models |
+| **ZenML Portfolio** | Orchestrated MLOps workflows using ZenML |
+
+Explore more in my repositories to see how I structure ML projects for robustness and reproducibility.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact&theme=github_dark)
+
+*Thanks for visiting! 👋*
+
+---
+
+## 🧠 Interests & Beyond Tech
+
+- **MLOps & ML System Design**
+- **Scalable model deployment**
+- **Growth mindset & philosophy**  
+*(Always learning, always improving.)*:contentReference[oaicite:3]{index=3}
+
+---
+
+## 📬 Connect with Me
+
+Let’s connect and build something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+⚡ **Fun fact:** I love deploying scalable ML models with a *“just do it”* mindset.🔥
