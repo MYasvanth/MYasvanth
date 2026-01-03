@@ -31,12 +31,59 @@ I primarily work in **Python and ML engineering ecosystems**, with a strong focu
 
 Here are a few repositories that highlight my work and expertise:​:contentReference[oaicite:2]{index=2}
 
-### ⭐ Key Projects
-| Project | Description |
-|---------|-------------|
-| **MLflow Pipeline Repo** | End-to-end ML pipeline with experiment tracking & deployment |
-| **DVC Reproducibility Project** | Demonstrates versioning and reproducibility for ML models |
-| **ZenML Portfolio** | Orchestrated MLOps workflows using ZenML |
+## 📌 Featured Projects
+
+### 🛠 MLOps Churn Prediction
+🔗 https://github.com/MYasvanth/mlops_churn_prediction  
+Predict customer churn with an industrialized ML pipeline.
+
+**Highlights:**
+- Feature engineering & model training
+- Data validation & versioning
+- CI/CD setup for model retraining
+- Model serving pipeline
+
+📌 **Tech:** Python | Scikit-Learn | MLflow | DVC | FastAPI | Docker
+
+---
+
+### 🛡 Credit Card Fraud Detection
+🔗 https://github.com/MYasvanth/credit_card_fraud_detection  
+Detect fraudulent transactions using advanced modeling techniques.
+
+**Highlights:**
+- Class imbalance handling & feature selection
+- Model metrics and ROC analysis
+- Automated evaluation scripts
+
+📌 **Tech:** Python | Pandas | Scikit-Learn | Imbalanced-Learn | Jupyter Notebook
+
+---
+
+### ⚡ MLOps Energy Demand Forecasting
+🔗 https://github.com/MYasvanth/mlops_energy_demand_forecasting  
+Time-series forecasting with reproducible ML workflows.
+
+**Highlights:**
+- Time series preprocessing & feature engineering
+- Automated training pipeline
+- Experiment tracking and logging
+
+📌 **Tech:** Python | Prophet / XGBoost | DVC | MLflow | Docker
+
+---
+
+### 🚴‍♂️ MLOps Bike Demand Prediction
+🔗 https://github.com/MYasvanth/mlops_bike_demand_prediction  
+Forecasting demand with regression & production-ready pipeline.
+
+**Highlights:**
+- Data ingestion pipeline
+- Model versioning & experiment tracking
+- Batch inference workflow
+
+📌 **Tech:** Python | Scikit-Learn | MLflow | DVC | FastAPI | Docker
+
 
 Explore more in my repositories to see how I structure ML projects for robustness and reproducibility.
 
