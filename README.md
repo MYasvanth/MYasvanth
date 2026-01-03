@@ -85,13 +85,16 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 
 ---
 
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact&theme=github_dark)
+<br/><br/>
 
-*Thanks for visiting! 👋*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact&theme=github_dark" />
+
+<p><em>Thanks for visiting! 👋</em></p>
+
 
 
 ---
