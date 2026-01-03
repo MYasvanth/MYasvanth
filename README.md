@@ -19,14 +19,11 @@ I’m passionate about building **production-ready machine learning workflows** 
 ![DVC](https://img.shields.io/badge/DVC-FFFFFF?style=flat&logo=dvc&logoColor=black)  
 ![ZenML](https://img.shields.io/badge/ZenML-504EBF?style=flat&logo=zenml&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 I primarily work in **Python and ML engineering ecosystems**, with a strong focus on:
 - MLOps workflows & experimentation tracking  
 - Reproducible pipelines (DVC/ZENML)  
 - Model serving with FastAPI & deployment automation  
-- Containerization & orchestration
 
 ---
 
@@ -67,9 +64,7 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 
 Let’s connect and build something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:yasvanthkohli@gmail.com)
 
 ---
 
