@@ -4,6 +4,9 @@
 I’m passionate about building **production-ready machine learning workflows** that are reproducible, scalable, and easy to monitor — from experimentation to deployment. I enjoy tackling real-world problems with data, engineering rigor, and automation.:contentReference[oaicite:1]{index=1}
 
 ---
+<a href="https://app.daily.dev/yasvanth5">
+  <img src="https://api.daily.dev/devcards/v2/yasvanth5.png" width="350" alt="Yasvanth’s Dev Card"/>
+</a>
 
 ## 🔧 Tech Stack
 
