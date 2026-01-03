@@ -87,9 +87,11 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MYasvanth&show_icons=true&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYasvanth&layout=compact&theme=github_dark)
+
+*Thanks for visiting! 👋*
 
 
 ---
