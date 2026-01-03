@@ -5,8 +5,13 @@ I’m passionate about building **production-ready machine learning workflows** 
 
 ---
 <a href="https://app.daily.dev/yasvanth5">
-  <img src="https://api.daily.dev/devcards/v2/yasvanth5.png" width="350" alt="Yasvanth’s Dev Card"/>
+  <img 
+    src="https://api.daily.dev/devcards/v2/yasvanth5.png" 
+    width="350" 
+    alt="Yasvanth's daily.dev Dev Card"
+  />
 </a>
+
 
 ## 🔧 Tech Stack
 
