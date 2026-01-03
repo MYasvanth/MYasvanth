@@ -107,7 +107,7 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 
 Let’s connect and build something amazing together!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:yasvanthkohli@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yasvanthkohli@gmail.com)
 
 
 ---
