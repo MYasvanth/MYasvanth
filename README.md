@@ -1,7 +1,7 @@
 # MYasvanth
 # Hi, I'm Yasvanth M! 👋
 
-Machine Learning Engineer specializing in MLOps from Airoli, Maharashtra. Building production-ready ML pipelines with reproducibility and monitoring.[web:7]
+Machine Learning Engineer specializing in MLOps from Chennai. Building production-ready ML pipelines with reproducibility and monitoring.[web:7]
 
 ## 🛠️ Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
