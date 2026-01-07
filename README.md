@@ -65,7 +65,7 @@ Time-series forecasting with reproducible ML workflows.
 - Automated training pipeline
 - Experiment tracking and logging
 
-📌 **Tech:** Python | Prophet / XGBoost | DVC | MLflow | Docker
+📌 **Tech:** Python | Prophet / LSTM | DVC | MLflow | Docker
 
 ---
 
