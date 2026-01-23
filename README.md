@@ -39,7 +39,7 @@ Predict customer churn with an industrialized ML pipeline.
 - CI/CD setup for model retraining
 - Model serving pipeline
 
-📌 **Tech:** Python | Scikit-Learn | MLflow | ZENML | DVC | FastAPI | Docker
+📌 **Tech:** Python | Scikit-Learn | MLflow | ZENML | DVC | FastAPI | Docker | Streamlit
 
 ---
 
@@ -65,7 +65,7 @@ Time-series forecasting with reproducible ML workflows.
 - Automated training pipeline
 - Experiment tracking and logging
 
-📌 **Tech:** Python | Prophet / LSTM | DVC | MLflow | ZENML
+📌 **Tech:** Python | Prophet / LSTM | DVC | MLflow | ZENML | Streamlit
 
 ---
 
