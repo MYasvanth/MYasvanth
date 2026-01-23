@@ -39,7 +39,7 @@ Predict customer churn with an industrialized ML pipeline.
 - CI/CD setup for model retraining
 - Model serving pipeline
 
-📌 **Tech:** Python | Scikit-Learn | MLflow | DVC | FastAPI | Docker
+📌 **Tech:** Python | Scikit-Learn | MLflow | ZENML | DVC | FastAPI | Docker
 
 ---
 
@@ -52,7 +52,7 @@ Detect fraudulent transactions using advanced modeling techniques.
 - Model metrics and ROC analysis
 - Automated evaluation scripts
 
-📌 **Tech:** Python | Pandas | Scikit-Learn | Imbalanced-Learn | Jupyter Notebook
+📌 **Tech:** Python | Scikit-Learn | Imbalanced-Learn | MLflow | Jupyter Notebook
 
 ---
 
@@ -65,7 +65,7 @@ Time-series forecasting with reproducible ML workflows.
 - Automated training pipeline
 - Experiment tracking and logging
 
-📌 **Tech:** Python | Prophet / LSTM | DVC | MLflow | Docker
+📌 **Tech:** Python | Prophet / LSTM | DVC | MLflow | ZENML
 
 ---
 
@@ -78,7 +78,7 @@ Forecasting demand with regression & production-ready pipeline.
 - Model versioning & experiment tracking
 - Batch inference workflow
 
-📌 **Tech:** Python | Scikit-Learn | MLflow | DVC | FastAPI | Docker
+📌 **Tech:** Python | Scikit-Learn | MLflow | DVC | FastAPI | ZENML
 
 
 Explore more in my repositories to see how I structure ML projects for robustness and reproducibility.
