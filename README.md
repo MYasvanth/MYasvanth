@@ -32,6 +32,7 @@ I primarily work in **Python and ML engineering ecosystems**, with a strong focu
 ### 🛠 MLOps Churn Prediction
 🔗 https://github.com/MYasvanth/mlops_churn_prediction  
 Predict customer churn with an industrialized ML pipeline.
+[![Live App](https://img.shields.io/badge/Live%20App-Open-green)](https://mlops-churn-prediction-4qvb.onrender.com)
 
 **Highlights:**
 - Feature engineering & model training
