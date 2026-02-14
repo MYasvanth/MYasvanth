@@ -47,6 +47,7 @@ Predict customer churn with an industrialized ML pipeline.
 ### 🛡 Credit Card Fraud Detection
 🔗 https://github.com/MYasvanth/credit_card_fraud_detection  
 Detect fraudulent transactions using advanced modeling techniques.
+[![FastAPI Docs](https://img.shields.io/badge/FastAPI-Swagger%20Docs-009688?logo=fastapi&logoColor=white)](https://credit-card-fraud-detection-cvnl.onrender.com/docs)
 
 **Highlights:**
 - Class imbalance handling & feature selection
