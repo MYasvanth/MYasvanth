@@ -4,6 +4,18 @@
 I’m passionate about building **production-ready machine learning workflows** that are reproducible, scalable, and easy to monitor — from experimentation to deployment. I enjoy tackling real-world problems with data, engineering rigor, and automation.:contentReference[oaicite:1]{index=1}
 
 ---
+## 📖 Continuous Learning & Reading
+
+I actively track and curate high-quality engineering content to deepen my understanding of scalable, production-grade ML systems and robust software architecture.
+
+### 🔎 Focus Areas
+
+- 📊 Data Science & Statistical Modeling  
+- 🏗️ MLOps & ML Systems Engineering  
+- 🧩 Software Engineering Principles (SOLID, Clean Architecture)  
+- 🧠 System Design & Distributed Systems  
+- 🚀 Production ML Architectures & Deployment Patterns  
+  
 <a href="https://app.daily.dev/yasvanth5">
   <img 
     src="https://api.daily.dev/devcards/v2/XAyPKV41YRmYhOlNhAyrQ.png?type=default&r=tkd" 
