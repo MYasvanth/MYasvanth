@@ -131,5 +131,3 @@ Let’s connect and build something amazing together!
 
 
 ---
-
-⚡ **Fun fact:** I love deploying scalable ML models with a *“just do it”* mindset.🔥
