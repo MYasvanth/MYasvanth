@@ -70,7 +70,7 @@ Detect fraudulent transactions using advanced modeling techniques.
 
 ---
 
-### ⚡ MLOps Energy Demand Forecasting
+### ⚡ MLOps Energy Demand Forecasting (Time Series ML)  
 🔗 https://github.com/MYasvanth/mlops_energy_demand_forecasting  
 Time-series forecasting with reproducible ML workflows.
 [![Swagger UI](https://img.shields.io/badge/Swagger%20UI-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://mlops-energy-demand-forecasting.onrender.com/docs)
