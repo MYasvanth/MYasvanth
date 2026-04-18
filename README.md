@@ -113,6 +113,13 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 
 
 ---
+## Values I Bring
+
+**Curiosity-Driven Learning**: Learn → unlearn → relearn. Actively question assumptions and explore better ways to build systems
+
+**Continuous Improvement**: Use feedback, errors, and production signals to continuously refine systems and prevent recurring issues
+
+---
 
 ## 🧠 Interests & Beyond Tech
 
