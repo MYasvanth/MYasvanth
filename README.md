@@ -120,6 +120,11 @@ Explore more in my repositories to see how I structure ML projects for robustnes
 **Continuous Improvement**: Use feedback, errors, and production signals to continuously refine systems and prevent recurring issues
 
 ---
+## Engineering Philosophy
+
+> "If you do not have a mission, no problem will occur, but if you do have a mission or task definitely problems of varying magnitudes will crop up. But problems should not become the master of the individuals, individuals should become the master of the problem, defeat it and succeed."
+
+— Satish Dhawan
 
 ## 🧠 Interests & Beyond Tech
 
